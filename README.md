@@ -1,6 +1,6 @@
 # detecting-heart-disease-using-ML
 
-This repository contains a heart disease detector developed using machine learning algorithms, along with the provided dataset. This project was done as part of the Machine Learning course I enrolled in during Spring 2022, instructed by Dr. Peyvandi at Sharif University of Technology.
+This repository contains a heart disease detector developed using machine learning algorithms, along with the provided dataset. This project was done as part of 'Machine Learning' course I enrolled in during Spring 2022, instructed by Dr. Peyvandi at Sharif University of Technology.
 <br>
 
 ## Most Commonly Used Machine Learning Algorithms for Heart Disease Detection
