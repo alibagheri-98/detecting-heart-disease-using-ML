@@ -3,7 +3,7 @@
 This repository contains a heart disease detector developed using machine learning algorithms, along with the provided dataset. This project was done as part of the Machine Learning course I enrolled in during Spring 2022, instructed by Dr. Peyvandi at Sharif University of Technology.
 <br>
 
-## most commonly used machine learning algorithms for heart disease detection
+## Most Commonly Used Machine Learning Algorithms for Heart Disease Detection
 There are several machine learning algorithms that are commonly used for heart disease detection. Here are some of the most frequently used ones:
 - K Neighbors Classifier
 - Support Vector Classifier
